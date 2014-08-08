@@ -1,4 +1,4 @@
-# main headingi
+# main heading
 * first list
 * second list
 * third list
